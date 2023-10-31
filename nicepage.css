@@ -41848,14 +41848,22 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-nav-4 {
-  font-size: 1.25rem;
-}
-
-.u-header .u-nav-5 {
   font-size: 1.125rem;
 }
 
+.u-header .u-nav-5 {
+  font-size: 1.25rem;
+}
+
 .u-header .u-nav-6 {
+  font-size: 1.125rem;
+}
+
+.u-header .u-nav-7 {
+  font-size: 1.125rem;
+}
+
+.u-header .u-nav-8 {
   font-size: 1.125rem;
 }
 @media (max-width: 1199px) {
