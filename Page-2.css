@@ -3,16 +3,16 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 1041px;
+  min-height: 457px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
   margin-top: 24px;
-  margin-bottom: 0;
+  margin-bottom: 46px;
 }
 
 .u-section-1 .u-layout-cell-1 {
-  min-height: 544px;
+  min-height: 397px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -26,16 +26,6 @@
 
 .u-section-1 .u-text-2 {
   margin: 22px 22px 0;
-}
-
-.u-section-1 .u-video-1 {
-  width: 570px;
-  height: 321px;
-  margin: -142px auto 60px 0;
-}
-
-.u-section-1 .embed-responsive-1 {
-  position: absolute;
 }
 
 @media (max-width: 1199px) {
@@ -67,37 +57,26 @@
   .u-section-1 .u-sheet-1 {
     min-height: 580px;
   }
-
-  .u-section-1 .u-video-1 {
-    width: 540px;
-    height: 304px;
-  }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
     min-height: 467px;
   }
-
-  .u-section-1 .u-video-1 {
-    width: 340px;
-    height: 191px;
-  }
 } .u-section-2 {
   background-image: linear-gradient(#808080, #1a1a1a);
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 1041px;
+  min-height: 689px;
 }
 
 .u-section-2 .u-layout-wrap-1 {
-  margin-top: 24px;
-  margin-bottom: 60px;
+  margin: 36px 0 60px;
 }
 
 .u-section-2 .u-layout-cell-1 {
-  min-height: 544px;
+  min-height: 627px;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -105,22 +84,37 @@
 }
 
 .u-section-2 .u-text-1 {
-  margin: 40px auto 0;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-image-1 {
+  width: 494px;
+  height: 517px;
+  margin: 17px auto 0;
 }
 
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 946px;
+    min-height: 594px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-2 .u-layout-cell-1 {
-    min-height: 449px;
+    min-height: 517px;
+  }
+
+  .u-section-2 .u-image-1 {
+    height: 516px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 597px;
+    min-height: 245px;
   }
 
   .u-section-2 .u-layout-cell-1 {
@@ -138,21 +132,26 @@
   .u-section-2 .u-sheet-1 {
     min-height: 467px;
   }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 355px;
+  }
 } .u-section-3 {
   background-image: linear-gradient(#1a1a1a, #808080);
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 1041px;
+  min-height: 712px;
 }
 
 .u-section-3 .u-layout-wrap-1 {
   margin-top: 24px;
-  margin-bottom: 60px;
+  margin-bottom: 24px;
 }
 
 .u-section-3 .u-layout-cell-1 {
-  min-height: 544px;
+  min-height: 674px;
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -163,13 +162,19 @@
   margin: 43px auto 0;
 }
 
+.u-section-3 .u-image-1 {
+  width: 527px;
+  height: 548px;
+  margin: 22px auto 0;
+}
+
 @media (max-width: 1199px) {
   .u-section-3 .u-sheet-1 {
     min-height: 946px;
   }
 
   .u-section-3 .u-layout-cell-1 {
-    min-height: 449px;
+    min-height: 556px;
   }
 }
 
@@ -193,16 +198,21 @@
   .u-section-3 .u-sheet-1 {
     min-height: 467px;
   }
+
+  .u-section-3 .u-image-1 {
+    width: 340px;
+    height: 354px;
+  }
 } .u-section-4 {
   background-image: linear-gradient(#808080, black);
 }
 
 .u-section-4 .u-sheet-1 {
-  min-height: 938px;
+  min-height: 528px;
 }
 
 .u-section-4 .u-text-1 {
-  margin: 65px auto 0;
+  margin: 60px auto 0;
 }
 
 .u-section-4 .u-text-2 {
@@ -219,17 +229,7 @@
 .u-section-4 .u-image-2 {
   width: 519px;
   height: 245px;
-  margin: 46px 38px 0 auto;
-}
-
-.u-section-4 .u-video-1 {
-  width: 570px;
-  height: 321px;
-  margin: -400px auto 60px 0;
-}
-
-.u-section-4 .embed-responsive-1 {
-  position: absolute;
+  margin: -245px auto 60px 29px;
 }
 
 @media (max-width: 767px) {
@@ -246,12 +246,7 @@
   }
 
   .u-section-4 .u-image-2 {
-    margin-right: 21px;
-  }
-
-  .u-section-4 .u-video-1 {
-    width: 540px;
-    height: 304px;
+    margin-left: 21px;
   }
 }
 
@@ -269,13 +264,8 @@
   .u-section-4 .u-image-2 {
     width: 340px;
     height: 161px;
-    margin-right: 0;
-  }
-
-  .u-section-4 .u-video-1 {
-    width: 340px;
-    height: 191px;
-    margin-top: -316px;
+    margin-top: -161px;
+    margin-left: 0;
   }
 } .u-section-5 {
   background-image: linear-gradient(black, #808080);
